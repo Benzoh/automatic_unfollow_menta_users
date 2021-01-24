@@ -1,0 +1,3 @@
+id: '<your email>'
+pass: '<your password>'
+follows_page_url: 'https://menta.work/user/<user_id??>/follows'
